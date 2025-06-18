@@ -1,4 +1,4 @@
-# WP Rocket Redis Cache Extension
+echo "# WP Rocket Redis Cache Extension
 
 Extiende WP Rocket para usar Redis como sistema de caché avanzada.
 
